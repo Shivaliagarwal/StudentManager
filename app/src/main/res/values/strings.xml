@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentManager</string>
+    <string name="channel_name">Student Manager\n</string>
+    <string name="channel_description">Student Added!</string>
+    <string name="hintText">Enter User Name</string>
+    <string name="heading">Content Provider In Android</string>
+    <string name="insertButtontext">Insert Data</string>
+    <string name="loadButtonText">Load Data</string>
+</resources>
