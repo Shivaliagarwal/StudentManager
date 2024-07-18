@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "com.example.integrated";
+option java_outer_classname = "LogProto";
+
+message LogEntry {
+  string timestamp = 1;
+  string message = 2;
+}

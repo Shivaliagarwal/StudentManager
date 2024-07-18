@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverterxml</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result:</string>
+</resources>

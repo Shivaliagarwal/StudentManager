@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "86719129383",
+    "firebase_url": "https://fir-cd27d-default-rtdb.firebaseio.com",
+    "project_id": "fir-cd27d",
+    "storage_bucket": "fir-cd27d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86719129383:android:5034c4dca6238a4e3e2b02",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVHqtBmUFUoQHL6BeP2r7wTuR0WS1HhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentReceiver</string>
+        <string name="heading">Accessing data of Content Provider</string>
+        <string name="loadButtonText">Load Data</string>
+
+
+</resources>
